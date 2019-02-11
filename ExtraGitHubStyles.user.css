@@ -6,14 +6,18 @@
 @updateURL   https://raw.githubusercontent.com/TravisEz13/ExtraGitHubStyles/master/LICENSE
 @license     MIT
 @author      TravisEz13
-.ms-label-mention {
-    background-color: #0078d7;
-    border-color: #888888;
-    color: white;
-}
 
-.ms-link-right-designator-mention {
-    background-color: #002050;
-    border-color: #888888;
-    color: white;
+==/UserStyle== */
+@-moz-document regexp("^https?://((gist|guides|help|launch-editor|raw|resources|status|developer)\\.)?github\\.com/((?!generated_pages/preview).)*$"), domain("githubusercontent.com"), domain("graphql-explorer.githubapp.com") {
+    .ms-label-mention {
+        background-color: #0078d7;
+        border-color: #888888;
+        color: white;
+    }
+
+    .ms-link-right-designator-mention {
+        background-color: #002050;
+        border-color: #888888;
+        color: white;
+    }
 }
