@@ -1,6 +1,6 @@
-# GitHub Extra Dark Themes
+# Extra GitHub Dark Themes
 
-This is user styles primarily meant for Microsoft Employees
+This is user styles primarily meant for Microsoft Employees who also use GitHub Dark
 
 ## Installation
 

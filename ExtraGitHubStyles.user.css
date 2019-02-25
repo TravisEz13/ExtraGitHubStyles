@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name        Extra GitHub Styles
+@name        Extra GitHub Dark Styles
 @namespace   TravisEz13
 @version     0.1.1
 @homepageURL https://github.com/TravisEz13/ExtraGitHubStyles
@@ -19,5 +19,15 @@
         background-color: #002050;
         border-color: #888888;
         color: white;
+    }
+
+    .ms-dropdown-section {
+        background-color: #181818;
+        color: #bebebe;
+    }
+
+    .ms-dropdown-nohover {
+        background-color: #181818 !important;
+        color: #bebebe !important;
     }
 }
