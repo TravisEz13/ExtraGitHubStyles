@@ -30,4 +30,10 @@
         background-color: #181818 !important;
         color: #bebebe !important;
     }
+
+    /* sometime GitHub Dark doesn't catch this */
+    .review-comment {
+        background-color: #181818 !important;
+        color: #bebebe !important;
+    }
 }
